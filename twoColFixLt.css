@@ -197,9 +197,9 @@ box-shadow: 5px 2px 18px 5px rgba(34, 34, 34, 0.5);
 	color: #333333;
 	text-decoration: none;
 	text-align: center;
-	margin-left: 10px;
-	 background:#BBA78D;
-	 padding-bottom:2px;
+	margin: 2px 0 10px 10px;
+    background: #BBA78D;
+    padding-bottom: 0;
 }
 .photoframe {
 	display: block;
