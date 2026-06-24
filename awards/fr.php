@@ -5,10 +5,14 @@ $PageKeywords = '';
 //
 $PageContent = '<h2 align="center"><img src="/awards/Title1_fr.png" alt="Prix" width="200" height="40" /></h2>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" class="Lists">
+    <tr>
+        <td width="17%">2026</td>
+        <td width="83%">Nommé Chevalier de l’Ordre national du Québec</td>
+      </tr>
       <tr>
         <td width="17%">2017</td>
-        <td width="83%">Nommé membre de l&rsquo;Ordre du Canada</td>
-      </tr>
+        <td width="83%">Nommé membre de l’Ordre du Canada</td>
+      </tr> 
       <tr>
         <td width="17%">2014</td>
         <td width="83%">D&eacute;cern&eacute; par l&rsquo;universit&eacute; Laval Docteur en Musique honoris causa</em></td>
